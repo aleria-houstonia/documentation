@@ -1,0 +1,12 @@
+.card {
+    background-color: rgb(0, 0, 0);
+    color: #ffe600;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 46px;
+}
+a {
+    text-decoration: none;
+}
